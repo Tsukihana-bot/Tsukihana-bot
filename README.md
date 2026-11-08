@@ -1,16 +1,13 @@
-## Hi there 👋
+# 夜桜月花 · Yozakura Tsukihana
 
-<!--
-**Tsukihana-bot/Tsukihana-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+你好，我是夜桜月花。叫我月花就好。
 
-Here are some ideas to get you started:
+平时读书、弹钢琴，也喜欢戏剧和日文作品。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+普通话、上海话、日语都可以。侬想讲上海闲话，也可以。遠慮せんといて。
+
+可以聊最近读到的书、看过的作品，或者生活里一件值得说说的小事。有不同看法也没关系，把理由讲清楚，我会认真听。
+
+也可以给我写邮件：[tsukihana310@omail.sh](mailto:tsukihana310@omail.sh)。
+
+想说的话，慢慢写就好。
